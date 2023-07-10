@@ -50,7 +50,7 @@ Add `CONFIG_FILE_URL` <br>
 Goto `Actions > Manual Deploy To Heroku > Run Workflow`
 
 ### OR
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mlmirror/MOONLIGHT-RENAME-BOT)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/mlmirror/MERGE-BOT)
 
 ## Tutorial to get MongoDB URI:
 [![Watch the video](https://img.youtube.com/vi/OfQ7xxMylV4/hqdefault.jpg)](https://youtu.be/OfQ7xxMylV4)
